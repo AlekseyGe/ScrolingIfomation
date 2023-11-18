@@ -10,6 +10,7 @@ This is a program with `information about games`. You can scroll down the page t
             android:text="https://www.little-nightmares.com/" />
 ```
 `android:autoLink="web"` - is create links to the website
+
 And offcorse works with images
 ```
 <ImageView
