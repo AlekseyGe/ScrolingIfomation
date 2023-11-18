@@ -1,4 +1,4 @@
-Language : [US](./README.md) | RU
+Language : [us](./README.md) | ru
 
 # Прокручиваемая информация
 
