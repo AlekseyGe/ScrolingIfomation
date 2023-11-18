@@ -22,6 +22,9 @@ And offcorse works with images
             android:layout_marginTop="8dp"/>
 ```
 `android:scaleType="centerCrop"`
+
 `android:adjustViewBounds="true"`
+
 `android:layout_marginTop="8dp"`
+
 This important lines are substitute the image `according to the size of the screen`
