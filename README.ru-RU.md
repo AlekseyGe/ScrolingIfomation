@@ -5,7 +5,7 @@ Language : [us](./README.md) | ru
 Это программа с `информацией об играх`. Вы можете прокрутить страницу вниз, чтобы увидеть больше игр. Это мой `первый опыт` работы со ссылками и прокруткой страницы
 
 List of games:
-- Little Nigtmaers II
+- Little Nightmaers II
 - Portal 2
 - Terraria
 > In the future I plan to add more games and make additional functionality
