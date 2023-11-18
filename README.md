@@ -38,7 +38,7 @@ This important lines are substitute the image `according to the size of the scre
 
 # Images
 
-|                First 2 game                | The third |
-:-------------------------------------------:|:----------|
- ![Screenshot](Screenshot1.png) |  ![Screenshot](Screenshot2.png)
+|                First 2 game                |                    The Third                   |
+:-------------------------------------------:|:----------------------------------------------:|
+ ![Screenshot](Screenshot1.png)              |  ![Screenshot](Screenshot2.png)
 
