@@ -1,6 +1,7 @@
 # ScrolingIfomation
 This is a program with `information about games`. You can scroll down the page to see more games. This is my `first experience` with links and scrolling page.
 <h1 align="center">Importatnt code moments</h1> 
+
 ```
 <TextView
             android:layout_width="match_parent"
