@@ -49,3 +49,7 @@ This important lines are substitute the image `according to the size of the scre
 :-------------------------------------------:|:----------------------------------------------:|
  ![Screenshot](Screenshot1.png)              |  ![Screenshot](Screenshot2.png)
 
+ # Compatibility
+
+ | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/800px-Android_robot.svg.png_48x48.png" alt="Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Edge |
+
