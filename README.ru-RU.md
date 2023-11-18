@@ -1,9 +1,9 @@
-Language : [🇺🇸](./README.md) | ru
+Language : 🇺🇸 | [🇷🇺](./README.ru-RU.md)
 
-# Scriling information
+# Scroling information
 
-This is a program with `information about games`. You can scroll down the page to see more games. This is my `first experience` with links and scrolling page.
-<h1 align="center">Importatnt code moments</h1> 
+This is a program with `information about games`. You can scroll down the page to see more games. This is my `first experience` with links and scrolling page
+<h1 align="center">Important code moments</h1> 
 
 ```
 <TextView
@@ -15,7 +15,7 @@ This is a program with `information about games`. You can scroll down the page t
 ```
 `android:autoLink="web"` - is create links to the website
 
-### And offcorse works with images
+### And offcourse works with images
 ```
 <ImageView
             android:id="@+id/imageViewa"
