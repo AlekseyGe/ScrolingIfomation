@@ -1,4 +1,5 @@
-# ScrolingIfomation
+Language : 🇺🇸 | [🇨🇳](./README.zh-CN.md) | [🇷🇺](./README.ru-RU.md) | [🇹🇷](./README.tr-TR.md) | [🇯🇵](./README.ja-JP.md) | [🇫🇷](./README.fr-FR.md) | [🇵🇹](./README.pt-BR.md) | [🇸🇦](./README.ar-DZ.md) | [🇪🇸](./README.es-ES.md)
+# Scroling ifomation
 This is a program with `information about games`. You can scroll down the page to see more games. This is my `first experience` with links and scrolling page.
 <h1 align="center">Importatnt code moments</h1> 
 
