@@ -8,6 +8,8 @@ List of games:
 - Little Nigtmaers II
 - Portal 2
 - Terraria
+> In the future I plan to add more games and make additional functionality
+  
 <h1 align="center">Important code moments</h1> 
 
 ```
