@@ -1,0 +1,122 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Little Nightmares II"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:gravity="center"/>
+        <ImageView
+            android:id="@+id/imageViewr"
+            android:layout_width="400dp"
+            android:layout_height="150dp"
+            tools:srcCompat="@drawable/littlenightmares"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:layout_marginTop="8dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Little Nightmares II – this is an exciting horror platformer that continues the story of the Six in a sinister world full of dangers and mysteries"
+            android:layout_marginTop="16dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Official website: "
+            android:textStyle="bold"
+            android:layout_marginTop="16dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:autoLink="web"
+            android:text="https://www.little-nightmares.com/" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Portal 2"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="390dp"
+            android:layout_height="150dp"
+            tools:srcCompat="@drawable/portal"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:layout_marginTop="8dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Portal 2 – a unique puzzle shooter using portal technology. The player will have to solve complex puzzles and enjoy an exciting story"
+            android:layout_marginTop="16dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Official website: "
+            android:textStyle="bold"
+            android:layout_marginTop="16dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:autoLink="web"
+            android:text="https://store.steampowered.com/app/620/Portal_2/" />
+
+        <TextView
+            android:id="@+id/textViewa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Terraria"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:gravity="center" />
+        <ImageView
+            android:id="@+id/imageViewa"
+            android:layout_width="390dp"
+            android:layout_height="150dp"
+            tools:srcCompat="@drawable/terraria"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:layout_marginTop="8dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Terraria – sandbox with elements of survival and adventure. Players can build, explore and fight in this fascinating 2D world"
+            android:layout_marginTop="16dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Official website: "
+            android:textStyle="bold"
+            android:layout_marginTop="16dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:autoLink="web"
+            android:text="https://terraria.org" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Button" />
+    </LinearLayout>
+
+</ScrollView>
