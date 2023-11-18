@@ -31,6 +31,6 @@ This is a program with `information about games`. You can scroll down the page t
 This important lines are substitute the image `according to the size of the screen`
 
 #Pictures
-|                Scientific / Dark                |
-:------------------------------------------------:|
- ![Screenshot](Screenshot1.png)
+|                First 2 game                | The third |
+:-------------------------------------------:|:----------|
+ ![Screenshot](Screenshot1.png) |  ![Screenshot](Screenshot2.png)
