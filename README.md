@@ -1,4 +1,4 @@
-Language : 🇺🇸 | [🇷🇺](./README.ru-RU.md) 
+Language : [🇺🇸](./README.md) | ru
 
 # Scriling information
 
