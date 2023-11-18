@@ -36,7 +36,7 @@ Language : [us](./README.md) | ru
 
 <h1 align="center">Изображения</h1> 
 
-|                Первые 2 игры               |        Третья      |
-:-------------------------------------------:|:-------------------|
- ![Screenshot](Screenshot1.png) |  ![Screenshot](Screenshot2.png)
+|                Первые 2 игры               |                    Третья                   |
+:-------------------------------------------:|:-------------------------------------------:|
+ ![Screenshot](Screenshot1.png)              |  ![Screenshot](Screenshot2.png)
 
