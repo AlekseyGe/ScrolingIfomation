@@ -4,11 +4,11 @@
 
 This is a program with `information about games`. You can scroll down the page to see more games. This is my `first experience` with links and scrolling page
 
-Список игр:
+List of games:
 - Little Nightmaers II
 - Portal 2
 - Terraria
-> В будущем планирую добавить ещё игр и сделать дополнительный функционал
+> In the future I plan to add more games and make additional functionality
   
 <h1 align="center">Important code moments</h1> 
 
