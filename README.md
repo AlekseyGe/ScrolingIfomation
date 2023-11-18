@@ -1,4 +1,4 @@
- Language : 🇺🇸 | [🇷🇺](./README.ru-RU.md)
+ Language : us | [ru](./README.ru-RU.md)
 
 # Scroling information
 
