@@ -51,7 +51,7 @@ This important lines are substitute the image `according to the size of the scre
 
  # Compatibility
 
- | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/800px-Android_robot.svg.png_48x48.png" alt="Edge" width="24px" height="24px" />]</br>Android | [<img src="https://www.apple.com/v/education/home/aa/images/meta/education_overview__ccmf0v3aqnjm_og.png?202311072210_Apple-Logo.png_48x48.png" alt="Edge" width="24px" height="24px" />]</br>Apple |
+ | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/800px-Android_robot.svg.png_48x48.png" alt="Edge" width="24px" height="24px" /></br>Android | [<img src="https://www.apple.com/v/education/home/aa/images/meta/education_overview__ccmf0v3aqnjm_og.png?202311072210_Apple-Logo.png_48x48.png" alt="Edge" width="24px" height="24px" />]</br>Apple |
 | --- | --- |
 | Edge | last 2 versions |
 
