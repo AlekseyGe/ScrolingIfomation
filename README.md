@@ -32,4 +32,5 @@ This important lines are substitute the image `according to the size of the scre
 
 #Pictures
 |                Scientific / Dark                |
- ![Dark calculator screenshot](Pic/Pic1)
+:------------------------------------------------:|
+ ![Screenshot](Pic/Pic1)
