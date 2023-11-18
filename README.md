@@ -13,7 +13,7 @@ List of games:
  # Compatibility
 
  | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/800px-Android_robot.svg.png_48x48.png" alt="Edge" width="24px" height="24px" /></br>Android | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Apple_logo_grey.svg/1724px-Apple_logo_grey.svg.png" alt="Edge" width="24px" height="24px" /></br>Apple |
-|: -----  :|: ----- :|
+:-------:|:-------:|
 |    ✔️  |    ❌  |
   
 <h1 align="center">Important code moments</h1> 
