@@ -1,9 +1,9 @@
-Language : 🇺🇸 | [🇷🇺](./README.ru-RU.md)
+ Language : 🇺🇸 | [🇷🇺](./README.ru-RU.md)
 
-# Прокручиваемая информация
+# Scroling information
 
-Это программа с `информацией об играх`. Вы можете прокрутить страницу вниз, чтобы увидеть больше игр. Это мой `первый опыт` работы со ссылками и прокруткой страницы
-<h1 align="center">Важные моменты кода</h1> 
+This is a program with `information about games`. You can scroll down the page to see more games. This is my `first experience` with links and scrolling page
+<h1 align="center">Important code moments</h1> 
 
 ```
 <TextView
@@ -13,9 +13,9 @@ Language : 🇺🇸 | [🇷🇺](./README.ru-RU.md)
             android:autoLink="web"
             android:text="https://www.little-nightmares.com/" />
 ```
-`android:autoLink="web"` -  создание ссылок на веб-сайт
+`android:autoLink="web"` - is create links to the website
 
-### И конечно же работа с изображениями
+### And offcourse works with images
 ```
 <ImageView
             android:id="@+id/imageViewa"
@@ -32,9 +32,10 @@ Language : 🇺🇸 | [🇷🇺](./README.ru-RU.md)
 
 `android:layout_marginTop="8dp"`
 
-Эти важные строки заменяют изображение "в соответствии с размером экрана`
+This important lines are substitute the image `according to the size of the screen`
 
 #Pictures
-|                Первые 2 игры               | Третья |
-:-------------------------------------------:|:--------|
+|                First 2 game                | The third |
+:-------------------------------------------:|:----------|
  ![Screenshot](Screenshot1.png) |  ![Screenshot](Screenshot2.png)
+
