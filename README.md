@@ -33,4 +33,4 @@ This important lines are substitute the image `according to the size of the scre
 #Pictures
 |                Scientific / Dark                |
 :------------------------------------------------:|
- ![Pic](Pic/Pic1)
+ ![Screenshot](screenshot.png)
