@@ -29,3 +29,7 @@ This is a program with `information about games`. You can scroll down the page t
 `android:layout_marginTop="8dp"`
 
 This important lines are substitute the image `according to the size of the screen`
+
+#Pictures
+|                Scientific / Dark                |
+ ![Dark calculator screenshot](Pic/Pic1)
