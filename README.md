@@ -3,6 +3,11 @@
 # Scroling information
 
 This is a program with `information about games`. You can scroll down the page to see more games. This is my `first experience` with links and scrolling page
+
+List of games:
+> Little Nigtmaers II
+> Portal 2
+> Terraria
 <h1 align="center">Important code moments</h1> 
 
 ```
