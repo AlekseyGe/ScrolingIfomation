@@ -36,7 +36,7 @@ This important lines are substitute the image `according to the size of the scre
 
 <div align="center">
 
-A few images about the program
+# Images
 
 |                First 2 game                | The third |
 :-------------------------------------------:|:----------|
